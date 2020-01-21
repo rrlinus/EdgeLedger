@@ -31,7 +31,11 @@
   #navbar ul {
     padding: 0.5rem;
   }
-
+#showcase {
+  background: #333 url('../img/people.jpg') no-repeat center center/cover;
+  height: 100vh;
+  color: #fff;
+}
   #showcase .showcase-content {
     top: 110px;
   }
